@@ -80,17 +80,6 @@ The application establishes a connection to the MongoDB Atlas database using the
 6. **Delete Data**: 
    Users can delete specific review data from the collections.
 
-### Conclusion
-
-This project demonstrates the creation of a review management system using MongoDB Atlas. The system supports CRUD operations on reviews related to doctors and hospitals, providing a flexible and efficient way to manage review data. The use of PyMongo enables seamless interaction with the MongoDB database, allowing for robust data management and retrieval.
-
-### Future Enhancements
-
-Future enhancements could include adding a web interface for better user interaction and integrating additional features such as authentication and authorization for added security.
-
----
-
-This should provide a clear summary of Phase 4 for your README file. If you need any more details or further assistance, please let me know!
 
 ## How to Use
 
