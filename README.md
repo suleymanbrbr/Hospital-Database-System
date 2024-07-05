@@ -1,5 +1,3 @@
-# Hospital-Database-System
-
 # Hospital Database Management System
 
 ## Project Overview
