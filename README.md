@@ -1,9 +1,5 @@
 # Hospital-Database-System
 
-Based on the provided files and the entity-relationship diagram, here's a draft for your README file to upload your project to GitHub:
-
----
-
 # Hospital Database Management System
 
 ## Project Overview
